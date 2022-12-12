@@ -2,9 +2,9 @@
 
 
 /**
- * main - prints a C program using printf
- * Return: Always 0
- */
+* main - prints a C program using printf
+* Return: Always 0
+*/
 
 int main(void)
 {
