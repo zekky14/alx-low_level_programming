@@ -3,10 +3,10 @@
 
 
 /**
- * main - Entry Point 
- * Return: Always (success)
- *
- */
+* main - Entry Point 
+* Return: Always (success)
+*
+*/
 
 int main(void)
 
