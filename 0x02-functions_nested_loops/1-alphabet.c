@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * main - check the code
@@ -6,14 +6,15 @@
  * Return: Always 0
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
-char b;
-for (b = 'a'; b <= 'z'; b++)
+char b = 'a';
+while (b <= 'z')
 {
 _putchar(b);
+b++;
 }
 _putchar('\n');
-return (0);
+
 }
   
