@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _islowe - Short description, single line 
- * @c: contains value to be compared
+* _islowe - Short description, single line
+* @c: contains value to be compared
  * Return: Always 0.
  */
 
@@ -16,5 +16,5 @@ return (1);
 else
 {
 return (0);
-}      
+}
 }      
