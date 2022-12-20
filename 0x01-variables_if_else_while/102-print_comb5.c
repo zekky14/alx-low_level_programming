@@ -4,8 +4,8 @@
 
 
 /**
- *
- *
+ * main - Entry point
+ * Return: Always 0 (success)
  *
  */
 
@@ -20,7 +20,7 @@ for (y = b + 1; y <= 99; y++)
 putchar((b / 10) + '0');
 putchar((b % 10) + '0');
 putchar(' ');
-putchar((y /10) + '0');
+putchar((y / 10) + '0');
 putchar((y % 10) + '0');
 if (b == 98 && y == 99)
 continue;
