@@ -10,7 +10,7 @@
 */
 
 int main(void)
-{  
+{
 int r, p;
 for (r = '0'; r < '9'; r++)
 {
