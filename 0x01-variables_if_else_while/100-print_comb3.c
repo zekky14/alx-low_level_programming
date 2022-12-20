@@ -4,17 +4,15 @@
 
 
 /**
- * main - Entry point 
- * Return: Always 0 (success)
- *
- */
+* main - Entry point 
+* Return: Always 0 (success)
+*
+*/
 
 int main(void)
 
-{
-  
+{  
 int r,p;
-
 for (r = '0'; r < '9'; r++)
 {
 for ( p = r + 1; p <= '9'; p++)
@@ -33,4 +31,3 @@ putchar(' ');
 putchar('\n');
 return (0);
 }
- 
