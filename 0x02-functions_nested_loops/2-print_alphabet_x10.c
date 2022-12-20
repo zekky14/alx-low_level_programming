@@ -2,7 +2,7 @@
 
 
 /**
-* print_alphabet_x10
+* print_alphabet_x10 - print a-z ten times
 * Return: Always 0
 *
 */
