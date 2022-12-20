@@ -3,7 +3,7 @@
 
 /**
 * print_alphabet_x10
-* print_alphabet_x10 , print a-z 10times
+* Return: Always 0
 *
 */
 
