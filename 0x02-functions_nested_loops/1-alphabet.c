@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main -  print_alphabet
  *
  * Return: Always 0
  */
@@ -17,4 +17,3 @@ b++;
 _putchar('\n');
 
 }
-  
