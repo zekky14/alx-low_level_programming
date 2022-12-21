@@ -2,7 +2,7 @@
 /**
  * print_sign - prints the sign of a number
  *
- * @c: integer could be +ve or -ve
+ * @n: integer could be +ve or -ve
  *
  * Return: 1
  */
