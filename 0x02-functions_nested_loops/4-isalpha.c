@@ -2,11 +2,11 @@
 
 
 /**
- * _isalpha - Returns 1 if c is a letter, lowercase or uppercase
- * @c: the int t print
- * 
- * Return: Always 0
- */
+* _isalpha - Returns 1 if c is a letter, lowercase or uppercase
+* @c: the int t print
+*
+* Return: Always 0
+*/
 
 int _isalpha(int c)
 {
