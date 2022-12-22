@@ -14,7 +14,7 @@ int b;
 
 if (n > 0)
 {
-for (1 = 0; i < n; i++)
+for (i = 0; i < n; i++)
 {
 for (b = 0; b < i; b++)
 {
