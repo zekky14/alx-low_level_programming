@@ -2,14 +2,13 @@
 #include <stdio.h>
 
 /**
- * print_triangles - Prints a triangle of squares according to param
- * @size: The size of the squares triangle
- * Return: empty
- */
+* print_triangles - Prints a triangle of squares according to param
+* @size: The size of the squares triangle
+* Return: empty
+*/
 
 void print_triangle(int size)
 {
-
 int x, y, z;
 if (size <= 0)
 {
