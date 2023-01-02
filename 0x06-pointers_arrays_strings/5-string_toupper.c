@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * string_topupper -  Changes all lowercase letters
- * of a string touppercase.
- * @str: The string to be changed
- * Return: Apointer to the changed string
- *
- */
+* string_topupper -  Changes all lowercase letters
+* of a string touppercase.
+* @str: The string to be changed
+* Return: Apointer to the changed string
+*
+*/
 
 char *string_toupper(char *str)
 {
