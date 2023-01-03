@@ -3,9 +3,9 @@
 
 /**
 * _memset -Fills the first n  bytes of the memory area
-* pointed to by @s withthe constant byte @c.
+* pointed to by @s withthe constant byte @b.
 * @s: A pointer to the memry area to be filled
-* @c: The character to fill the emory are with
+* @b: The character to fill the emory are with
 * @n: The number of the bytes to be filled.
 * description _memset: other there
 *
