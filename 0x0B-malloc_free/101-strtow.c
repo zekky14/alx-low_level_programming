@@ -19,6 +19,7 @@ while (*(str + index) && *(str + index) != " ")
 {
 len++;
 index++;
+
 return (len);
 }
 
