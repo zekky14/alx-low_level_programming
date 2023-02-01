@@ -25,7 +25,7 @@ current = current->next;
 }
 if (current == NULL)
 return (NULL);
-}	
+}
 new = malloc(sizeof(listint_t));
 if (new == NULL)
 return (NULL);
